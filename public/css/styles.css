@@ -1,0 +1,457 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* TITLE IMG */
+.logo_img {
+  padding: 4rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  width: 40rem;
+  /* transform: rotate(25deg); this code is for img rotation */
+}
+
+/*************************************/
+/* TITLE */
+.title {
+  height: 50%;
+}
+
+.nav_items {
+  padding: 0 0.3rem;
+  font-size: 1.15rem;
+}
+
+/***************************/
+/* DOWNLOAD BUTTONS */
+.download-button {
+  margin: 4% 5% 4% 0%;
+  width: 10rem;
+  height: 3rem;
+}
+
+/****************************/
+.feature-box {
+  padding-bottom: 5rem;
+}
+
+/* ICON */
+.icon {
+  color: #b70129;
+}
+
+.icon:hover {
+  color: #da0235;
+}
+
+/*********************/
+/* PROOFS */
+.alex-pc {
+  width: 15.2vw;
+  border-radius: 100%;
+  /* THIS ROUNDS THE IMG CORNERS */
+}
+
+.proof-h1 {
+  padding-bottom: 4rem;
+}
+
+.proof-h2 {
+  padding: 2rem 15% 2rem;
+  font-weight: 900;
+}
+
+.jiji-pc-fan-circle {
+  width: 15.22vw;
+}
+
+/* WEB LOGOS */
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 0px;
+}
+
+/***********************/
+.card-body {
+  background-color: #c0c0c0;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+/* CONTACT US */
+.footer-h3 {
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+.bottom_links {
+  word-spacing: 1.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+/**************************/
+/* FOOTER */
+.footer-icon {
+  color: #212529;
+}
+
+/****************************/
+/* NAVIGATION BAR */
+#navbar {
+  padding: 1rem .9rem;
+}
+
+#logo {
+  font-family: 'MuseoModerno', cursive;
+  font-size: 1.8rem;
+  font-weight: 400;
+  padding-left: 10px;
+}
+
+/*************************/
+/* TITLE */
+#title {
+  background-color: #da0235;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 3.7rem;
+  position: relative;
+}
+
+#h1 {
+  padding-top: 6rem;
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-weight: 900;
+  font-size: 3.2rem;
+  line-height: 1.3;
+}
+
+/*****************************/
+/* CONTAINER */
+#first-col {
+  padding: 3% 5% 0rem 7.5%;
+}
+
+#row1 {
+  padding: 0.75rem 0.5rem;
+  margin-right: 0rem;
+}
+
+#container-fluid {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+/******************************/
+/* FEAUTURES */
+#features {
+  padding: 12rem 2rem 8rem;
+  text-align: center;
+  line-height: 2;
+}
+
+#h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  padding-top: 1.8rem;
+  padding-bottom: 1rem;
+}
+
+#p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  color: #8f8f8f;
+  font-size: 1.1rem;
+}
+
+#row2 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#feature-box1 {
+  padding-left: 5rem;
+  padding-right: 4rem;
+}
+
+#feature-box2 {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+#feature-box3 {
+  padding-left: 4rem;
+  padding-right: 5rem;
+}
+
+/***************************/
+/* PROOFS */
+#proofs {
+  padding: 1rem 15% 4rem;
+  text-align: center;
+  background-color: #da0235;
+}
+
+#alex-em {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+
+#h1-proof {
+  padding-top: 2rem;
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-weight: 900;
+  font-size: 3.6rem;
+  line-height: 1.3;
+}
+
+#h2 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 1.5rem;
+  padding-top: 2rem;
+}
+
+/****************************/
+/* CAROUSEL */
+#h1-carousel {
+  padding-top: 2rem;
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-weight: 900;
+  font-size: 2.5rem;
+  line-height: 1.3;
+}
+
+/*********************/
+/* PRESS */
+#press {
+  text-align: center;
+  background-color: #b70129;
+  padding: 2rem 8rem 4rem;
+}
+
+/************************/
+/* PRICING */
+#col {
+  bs-gutter-x: 0rem;
+}
+
+#servicii {
+  text-align: center;
+  padding: 6rem 0rem 4rem;
+  font-size: 1.5rem;
+}
+
+#servicii-h2 {
+  font-size: 2.5rem;
+}
+
+#card {
+  padding: 0rem 3.7rem 4rem;
+  text-align: center;
+  border-color: #fff;
+}
+
+#card-header {
+  background-color: #212529;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+#pricing p {
+  font-size: 2.2vb;
+}
+
+.pret-optiuni{
+  font-size: 1.6rem; 
+  font-weight: 700;
+}
+
+#h2-pret {
+  color: #fff;
+}
+
+#h5 {
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+#h4-pret {
+  font-size: 2.2rem;
+  font-weight: 900;
+}
+
+/* testing */
+.card-header {
+  text-align: center;
+}
+.form-check {
+  margin-bottom: 15px;
+  display: inline-block   !important;
+}
+.form-check-label {
+  font-size: 1.25rem;
+}
+.form-check-input {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 10px;
+}
+/***************************************/
+
+/* REASONS */
+
+#reasons{
+  background-color:#da0235;
+  margin: 0;
+}
+
+#reasons div{
+  padding-bottom:10px;
+}
+
+
+#drivers{
+  display: inline-grid;
+}
+
+#FirstEnemy{
+  padding: 0 30% 0 10%;
+}
+
+#SecondEnemy{
+  padding: 0 10% 0 30%;
+}
+
+#FinalEnemy{
+  padding: 0 30% 0 10%;
+}
+
+#reasonsH4{
+  font-size: 1.5rem;
+}
+
+/***************************************/
+
+/* CONTACT US */
+#cta {
+  background-color: #da0235;
+  text-align: center;
+  padding: 4rem 11rem 4rem;
+}
+
+#button-cta {
+  width: 16rem;
+  height: 3rem;
+  margin-bottom: 3rem;
+}
+
+/********************/
+/* FOOTER */
+#footer {
+  background-color: #fff;
+  text-align: center;
+  padding-bottom: 5rem;
+  padding-top: 3rem;
+}
+
+#footer-p {
+  font-size: 1rem;
+}
+
+/************************/
+
+/* Mobile addaptation */
+@media (max-width: 1024px) {
+  #h3 {
+    font-size: 3rem;
+  }
+
+  #p {
+    font-size: 2rem;
+  }
+}
+
+.footer-icon{
+  transition: transform 0.3s;
+
+}
+/************************/
+/* ANIMATOINS */
+
+.footer-icon:hover{
+  transform: translateY(-10px);
+}
+
+/************************/
+
+/* Mobile aspect Adaptation */
+
+@media (max-width: 1400px){
+  #reasonsH4{
+    font-size: 2rem;
+  }
+
+  #pricing p{
+    font-size: 2rem;
+  }
+
+  #serviciu{
+    font-size: 3rem;
+  }
+
+  #menuContainer{
+    width: 70vw;
+    height: 30rem;
+  }
+}
+
+/************************/
+/* PC Parts Picker help */
+
+#PCPP{
+  background-color: #fff;
+}
+
+.reveal{
+  position: relative;
+  opacity: 0;
+  transform: translateY(100px);
+  transition: 1s all ease;
+}
+
+.reveal.active{
+  transform: translateY(0px);
+  opacity: 1;
+}
+
+/*************************/
+/* Buy Menu */
+#menuContainer {
+  display: block;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+#HtmlServiciu{
+  padding: 4% 0 4%;
+}
+
+#menuContainer.hidden {
+  display:none;
+}
+
+#serviciu{
+  color: #fff;
+  font-size: 2.5rem
+}
+
+.blur{
+  filter: blur(5px);
+}
